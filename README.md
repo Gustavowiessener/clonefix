@@ -1,4 +1,4 @@
-# h1 Clone Netflix
 
-![](C:\Users\Familia\Desktop\Netflix clone\imgs\readme.jpg)
+Clone NetFlix
 
+![alt text](https://github.com/Gustavowiessener/clonefix/blob/master/imgs/readme.jpg)
